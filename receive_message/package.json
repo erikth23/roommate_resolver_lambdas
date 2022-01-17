@@ -1,0 +1,11 @@
+{
+  "name": "receive_message",
+  "version": "1.0.0",
+  "description": "Receive message for roommate resolver and process it",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Erik Thomas-Hommer",
+  "license": "ISC"
+}
