@@ -1,0 +1,31 @@
+{
+  "house_id": "random_text",
+  "event_topic": "919_98144"
+  "phone_numbers": {
+    "6103685859": {
+      "my_tasks": [1, 3],
+      "monthly_misses": 3,
+      "name": "Erik"
+    },
+    ...
+  },
+  "tasks": [
+    {
+        "name": "Vacuum downstairs",
+        "status": "PENDING_VOTE",
+        "for": []
+        "against": []
+        "pending": ["some_number"]
+        "time_frame": 0
+    },
+    ...
+  ],
+  "time_frames": [
+    {
+      "name": "weekly",
+      "duration_ms": 604800000,
+      "last_checked": 409328
+    },
+    ...
+  ]
+}
